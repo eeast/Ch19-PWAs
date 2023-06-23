@@ -8,7 +8,6 @@
 * [Features](#features)
 * [Deployed Application](#deployed-application)
 * [Installation](#installation)
-* [Future Development](#future-development)
 * [License](#license)
 
 ## Description
