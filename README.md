@@ -4,12 +4,12 @@
 
 ## Table of Contents
 
-* [Description](https://github.com/eeast/E-Commerce-Back-End-Application/blob/main/README.md#description)
-* [Features](https://github.com/eeast/E-Commerce-Back-End-Application/blob/main/README.md#features)
-* [Deployed Application](https://github.com/eeast/E-Commerce-Back-End-Application/blob/main/README.md#deployed-application)
-* [Installation](https://github.com/eeast/E-Commerce-Back-End-Application/blob/main/README.md#installation)
-* [Future Development](https://github.com/eeast/E-Commerce-Back-End-Application/blob/main/README.md#future-development)
-* [License](https://github.com/eeast/E-Commerce-Back-End-Application/blob/main/README.md#license)
+* [Description](#description)
+* [Features](#features)
+* [Deployed Application](#deployed-application)
+* [Installation](#installation)
+* [Future Development](#future-development)
+* [License](#license)
 
 ## Description
 
